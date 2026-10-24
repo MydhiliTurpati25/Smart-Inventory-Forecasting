@@ -1,0 +1,31 @@
+product,stock,unit_price,lead_time_days,inventory_value,avg_forecast,total_forecast,method,reorder_point,reorder_qty,status
+PROD-152143 - Scholar Footwear Retro Legend,29,160.0,7,4640.0,1.0,10.0,Recent average fallback,8.0,0,Possible Overstock
+PROD-100358 - Femme Footwear Court Casual,41,120.0,7,4920.0,0.7929999999999999,7.93,Random Forest ML,6.343999999999999,0,Possible Overstock
+PROD-100437 - Scholar Footwear Court Casual,93,69.99,7,6509.07,0.764,7.64,Random Forest ML,6.112,0,Possible Overstock
+PROD-100436 - Scholar Footwear Court Casual,63,92.0,7,5796.0,0.868,8.68,Random Forest ML,6.944,0,Possible Overstock
+PROD-100435 - Scholar Footwear Court Casual,42,46.0,7,1932.0,0.601,6.01,Random Forest ML,4.808,0,Possible Overstock
+PROD-175338 - Scholar Footwear Retro Legend,287,190.0,7,54530.0,0.343,3.43,Random Forest ML,2.744,0,Possible Overstock
+PROD-100439 - Scholar Footwear Court Casual,145,69.99,7,10148.55,0.34900000000000003,3.49,Random Forest ML,2.7920000000000003,0,Possible Overstock
+PROD-100438 - Scholar Footwear Court Casual,94,69.99,7,6579.0599999999995,0.32,3.2,Random Forest ML,2.56,0,Possible Overstock
+PROD-140867 - Scholar Footwear Boot Collection,46,120.0,7,5520.0,0.746,7.46,Random Forest ML,5.968,0,Possible Overstock
+PROD-140868 - Scholar Footwear Boot Collection,54,120.0,7,6480.0,0.322,3.22,Random Forest ML,2.576,0,Possible Overstock
+PROD-140869 - Scholar Footwear Boot Collection,90,120.0,7,10800.0,0.602,6.02,Random Forest ML,4.816,0,Possible Overstock
+PROD-166366 - Scholar Footwear Trailblazer,31,115.0,7,3565.0,1.248,12.48,Random Forest ML,9.984,0,Possible Overstock
+PROD-161864 - Scholar Footwear Sandals,44,40.0,7,1760.0,0.891,8.91,Random Forest ML,7.128,0,Possible Overstock
+PROD-100801 - Scholar Footwear Flight Classic,43,90.0,7,3870.0,1.738,17.38,Random Forest ML,13.904,0,Possible Overstock
+PROD-100453 - Femme Footwear Flight Classic,107,115.0,7,12305.0,1.046,10.46,Random Forest ML,8.368,0,Possible Overstock
+PROD-100452 - Femme Footwear Flight Classic,78,115.0,7,8970.0,1.581,15.81,Random Forest ML,12.648,0,Possible Overstock
+PROD-100449 - Femme Footwear Flight Classic,86,115.0,7,9890.0,0.8019999999999999,8.02,Random Forest ML,6.4159999999999995,0,Possible Overstock
+PROD-140879 - Scholar Footwear Boot Collection,150,120.0,7,18000.0,0.461,4.61,Random Forest ML,3.688,0,Possible Overstock
+PROD-140871 - Scholar Footwear Boot Collection,128,120.0,7,15360.0,1.401,14.01,Random Forest ML,11.208,0,Possible Overstock
+PROD-140870 - Scholar Footwear Boot Collection,94,120.0,7,11280.0,1.017,10.17,Random Forest ML,8.136,0,Possible Overstock
+PROD-100813 - Scholar Footwear Flight Classic,339,90.0,7,30510.0,1.777,17.77,Random Forest ML,14.216,0,Possible Overstock
+PROD-100805 - Scholar Footwear Flight Classic,179,90.0,7,16110.0,6.484,64.84,Random Forest ML,51.872,0,Possible Overstock
+PROD-100802 - Scholar Footwear Flight Classic,16,90.0,7,1440.0,1.0310000000000001,10.31,Random Forest ML,8.248000000000001,0,Healthy
+PROD-100803 - Scholar Footwear Flight Classic,201,90.0,7,18090.0,3.4520000000000004,34.52,Random Forest ML,27.616000000000003,0,Possible Overstock
+PROD-100800 - Scholar Footwear Flight Classic,105,90.0,7,9450.0,2.58,25.8,Random Forest ML,20.64,0,Possible Overstock
+PROD-100799 - Scholar Footwear Flight Classic,97,90.0,7,8730.0,1.534,15.34,Random Forest ML,12.272,0,Possible Overstock
+PROD-100451 - Femme Footwear Flight Classic,98,115.0,7,11270.0,1.1460000000000001,11.46,Random Forest ML,9.168000000000001,0,Possible Overstock
+PROD-161865 - Scholar Footwear Sandals,18,40.0,7,720.0,0.32799999999999996,3.28,Random Forest ML,2.6239999999999997,0,Possible Overstock
+PROD-100804 - Scholar Footwear Flight Classic,212,90.0,7,19080.0,4.697,46.97,Random Forest ML,37.576,0,Possible Overstock
+PROD-166368 - Scholar Footwear Trailblazer,39,115.0,7,4485.0,1.605,16.05,Random Forest ML,12.84,0,Possible Overstock
